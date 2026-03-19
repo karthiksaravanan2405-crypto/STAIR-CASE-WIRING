@@ -10,7 +10,7 @@ S.No Name of the apparatus Range / Type Quantity
 2 Lamp Holder Pendent Type 1 No.
 3 SPDT Switch 230V,5A 2 Nos
 4 Wires 1/18” As per requirement
-5 P.V.C Pipe 1/4" As per requirement
+5 P.V.C Pipe 1/4" As per requirement  
 6 Wooden Board - 1 No.
 7 Round block - 1 No
 
